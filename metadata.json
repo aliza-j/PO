@@ -1,0 +1,6 @@
+{
+  "name": "PO to Excel & DTA Sync System",
+  "description": "Upload a Purchase Order PDF, convert to Excel, sync/lookup SKU, OUM, and prices from a SQL inventory database, automatically update prices with current inventory costs, and generate the final TU DTA processing file.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
